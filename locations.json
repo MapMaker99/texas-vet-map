@@ -2,8 +2,8 @@ name,address,longitude,latitude,service_type,county
 University Medical Center,"602 Indiana Ave, Lubbock",-101.892301023404,33.5882284740459,Healthcare,Lubbock
 Covenant Medical Center,"3615 19th St, Lubbock",-101.893156158987,33.5770940463772,Healthcare,Lubbock
 Catholic Charities-Lubbock,"102 Avenue J, Lubbock TX 79401",-101.8475474,33.5967355,Healthcare,Lubbock
-Texas Tech University,"2500 Broadway, Lubbock",-101.878,33.584,Education,Lubbock
-Lubbock High School,"2004 19th St, Lubbock",-101.866,33.584,Education,Lubbock
+Texas Tech University,"2500 Broadway, Lubbock",-101.8995955,33.5937526,Education,Lubbock
+Lubbock High School,"2004 19th St, Lubbock",-101.8606743,33.5786492,Education,Lubbock
 Catholic Charities-Lubbock,102 Ave. J Lubbock TX 79401,-101.8475474,33.5967355,Childcare,Lubbock
 Covenant Children's Hospital,"4000 24TH ST. LUBBOCK, TX 79424",-101.898768,33.572368,Childcare,Lubbock
 The Parenting Cottage,3818 50TH ST. LUBBOCK TX 79413,-101.898327,33.549028,Childcare,Lubbock
@@ -66,23 +66,22 @@ Hockley County Veteran Services,"802 Houston St #109, Levelland, TX 79336",-102.
 SPRHS-ADMINISTRATION Office,"1000 FM 300, Levelland, TX 79336",-102.3798611,33.5714969,Healthcare,Hockley
 SPCAA Community Services,"410 Houston St #410, Levelland, TX 79336",-102.3725655,33.5870267,Support,Hockley
 Workforce Solutions South Plains - Levelland Center,"1102 Austin St, Levelland, TX 79336",-102.3806521,33.5860775,Support,Hockley
-Muleshoe VSO,"300 S 1st St, Muleshoe, TX 79347",-102.7279,34.2287,Support,Bailey
-Littlefield VSO,"100 6th Drive, Littlefield, TX 79339",-102.332836,33.918917,Support,Lamb
-Plainview VSO,"500 Broadway St, Plainview, TX 79072",-101.70684,34.18479,Support,Hale
-Floydada VSO,"105 S Main St, Floydada, TX 79235",-101.33766,33.98452,Support,Floyd
-Matador VSO,"701 Dundee Ave, Matador, TX 79244",-100.8192,34.0134,Support,Motley
-Morton VSO,"100 N Main St, Morton, TX 79346",-102.7594,33.7251,Support,Cochran
-Crosby County Courthouse / County Offices (Veterans Contact) ,"201 W Aspen St, Crosbyton, TX 79322",-101.2398811,33.6584606,Support,Crosby
+Muleshoe VSO,"300 S 1st St, Muleshoe, TX 79347",-102.725538,34.224531,Support,Bailey
+Littlefield VSO,"100 6th Drive, Littlefield, TX 79339",-102.332515,33.920715,Support,Lamb
+Plainview VSO,"500 Broadway St, Plainview, TX 79072",-101.70238,34.1851828,Support,Hale
+Floydada VSO,"105 S Main St, Floydada, TX 79235",-101.3341208,33.9849877,Support,Floyd
+Matador VSO,"701 Dundee Ave, Matador, TX 79244",-100.821512,34.0139358,Support,Motley
+Morton VSO,"100 N Main St, Morton, TX 79346",-102.759123,33.72539,Support,Cochran
 Dickens VSO,"Dickens County Courthouse, Dickens, TX",-100.836195131212,33.6215810970977,Support,Dickens
-Brownfield VSO,"500 W Main St, Brownfield, TX 79316",-102.2608,33.1762,Support,Terry
+Brownfield VSO,"500 W Main St, Brownfield, TX 79316",-102.280121,33.179107,Support,Terry
 Tahoka VSO,"1501 S 1st St, Tahoka, TX 79373",-101.7960847,33.1646408,Support,Lynn
-Post VSO,"300 W Main St, Post, TX 79356",-101.3829,33.1961,Support,Garza
+Post VSO,"300 W Main St, Post, TX 79356",-101.3816144,33.1909128,Support,Garza
 VFW Post 8570 (Muleshoe),"203 E Ash Ave, Muleshoe, TX 79347",-102.7207058,34.2264973,Support,Bailey
 Muleshoe Senior Citizens Center,"319 Main St #319, Muleshoe, TX 79347",-102.724743593894,34.2234188703893,Support,Bailey
 Cochran County Veteran Resources - Veterans Ride Program (Cochran County Courthouse),"100 N Main St Morton, TX 79346",-102.759123,33.72539,Transportation,Cochran
 Yoakum County Veterans Office,"122 W 4th St, Denver City, Yoakum County, TX 79323",-102.8296193,32.9679834,Support,Yoakum
 "Yoakum County Veterans Service Officer (Plains, TX)","1405 State Highway 214, Plains, Yoakum County, TX 79355",-102.81858,33.183071,Support,Yoakum
-VFW Brownfield TX - Post 6794 (Veterans of Foreign Wars),"P.O. Box 1312, Brownfield, TX 79316 (Terry County)",-102.2608,33.1762,Support,Terry
+VFW Brownfield TX - Post 6794 (Veterans of Foreign Wars),"P.O. Box 1312, Brownfield, TX 79316 (Terry County)",-102.2901547,33.1756466,Support,Terry
 Terry County Veteran Office,"500 W Main St #105, Brownfield, TX 79316 (Terry County)",-102.280121,33.179107,Support,Terry
 American Legion,"1021 S 8th St, Brownfield, TX 79316 (Terry County)",-102.2837755,33.1690913,Support,Terry
 Lynn County Clerk (Veterans Support Contact),"1501 S 1st St, Tahoka, TX 79373 (Lynn County)",-101.7960847,33.1646408,Support,Lynn
@@ -105,52 +104,51 @@ Bailey County Ministerial Alliance Food Pantry,"725 E American Blvd, Muleshoe, T
 Meals on Wheels / Office on Aging (Bailey County),"300 S 1st St #110, Muleshoe, TX 79347",-102.726237573641,34.2244904624553,Food,Bailey
 Central Plains Center (MHMR),"119 E Avenue C, Muleshoe, TX 79347",-102.7250415,34.2244948,Mental Health,Bailey
 Bailey County Transportation (SPCAA / SPARTAN Transportation),"804 W America Blvd Ste C, Muleshoe, TX 79347",-102.731206328093,34.2313111027647,Transportation,Bailey
-Cochran County Indigent Health Care Program,"201 E Grant St, Morton, TX 79346",-102.75934,33.72561,Healthcare,Cochran
-South Plains Food Bank (local distribution),"100 N Main St Morton, TX 79346",-102.75987,33.72618,Food,Cochran
+Cochran County Indigent Health Care Program,"201 E Grant St, Morton, TX 79346",-102.758097,33.719285,Healthcare,Cochran
+South Plains Food Bank (local distribution),"100 N Main St Morton, TX 79346",-102.759123,33.72539,Food,Cochran
 WIC State Agency,"112 W 2nd St, Denver City, TX 79323",-102.830008428224,32.9660870930703,Food,Yoakum
 South Plains Community Action Assoc.,"112 W 2nd St, Denver City, TX 79323",-102.83000186189,32.9658997832174,Support,Yoakum
-South Plains Public Health District,"415 Mustang Dr, Denver City, TX 79323",-102.83152,32.96441,Support,Yoakum
-Yoakum Community Hospital,"1200 Carl Ramert Dr, Yoakum, TX 77995",-102.8429,32.96489,Healthcare,Yoakum
+South Plains Public Health District,"415 Mustang Dr, Denver City, TX 79323",-102.836499,32.9681663,Support,Yoakum
+Yoakum County Hospital,"412 Mustang Dr, Denver City, TX 79323",-102.8354917,32.9687967,Healthcare,Yoakum
 Yoakum County Veterans Office,"122 W 4th St, Denver City, TX 79323",-102.830079305096,32.9681797232234,Support,Yoakum
-Terry County Community Action,"111 N D St, Brownfield, TX 79316",-102.27454,33.18167,Support,Terry
-Brownfield HHSC Benefits Office,"101 N Avenue D, Brownfield, TX 79316",-102.27483,33.18139,Support,Terry
-Brownfield Regional Medical Center,"705 E Felt St, Brownfield, TX 79316",-102.26597,33.17879,Support,Terry
-Brownfield Clinic (South Plains Public Health),"919 E Main St, Brownfield, TX 79316",-102.26259,33.18191,Healthcare,Terry
-County Government (Clerk/Veteran Info),"500 W Main St, Brownfield, TX 79316",-102.28081,33.18152,Support,Terry
-Spartan Public Transportation,"111 N D St, Brownfield, TX 79316",-101.79168,33.15723,Transportation,Terry
-Lynn County Clerk (County Government) Lynn County Clerk,"1501 S 1st St, Tahoka, TX 79373",-101.79168,33.15723,Support,Lynn
+Terry County Community Action,"111 N D St, Brownfield, TX 79316",-102.2649659,33.1794739,Support,Terry
+Brownfield HHSC Benefits Office,"101 N Avenue D, Brownfield, TX 79316",-102.264855,33.180079,Support,Terry
+Brownfield Regional Medical Center,"705 E Felt St, Brownfield, TX 79316",-102.2674204,33.1875611,Healthcare,Terry
+Brownfield Clinic (South Plains Public Health),"919 E Main St, Brownfield, TX 79316",-102.2657294,33.1793693,Healthcare,Terry
+County Government (Clerk/Veteran Info),"500 W Main St, Brownfield, TX 79316",-102.280121,33.179107,Support,Terry
+Spartan Public Transportation,"111 N D St, Brownfield, TX 79316",-102.2649659,33.1794739,Transportation,Terry
+Lynn County Clerk (County Government) Lynn County Clerk,"1501 S 1st St, Tahoka, TX 79373",-101.7960847,33.1646408,Support,Lynn
 Lynn County Adult Probation Lynn County Adult Probation,"Lynn County Courthouse, 1501 S 1st St, Tahoka, TX 79373",-101.7960847,33.1646408,Legal,Lynn
-Lynn County Justice of the Peace (O'Donnell) Lynn County Justice of Peace,"1015 9th St, O'Donnell, TX 79351",-101.37988,33.19238,Support,Lynn
-Garza County Healthcare District (Indigent Health),"1002 N Avenue S, Post, TX 79356",-101.36449,33.18809,Healthcare,Garza
-South Plains Community Action Assoc. (SPCAA),"1600 US-84, Post, TX 79356",-100.83722,33.62344,Housing,Garza
+Lynn County Justice of the Peace (O'Donnell) Lynn County Justice of Peace,"1015 9th St, O'Donnell, TX 79351",-101.8352413,32.963946,Support,Lynn
+Garza County Healthcare District (Indigent Health),"1002 N Avenue S, Post, TX 79356",-101.3895635,33.202635,Healthcare,Garza
+South Plains Community Action Assoc. (SPCAA),"1600 US-84, Post, TX 79356108 N Broadway St, Post, TX 79356",-101.378047380027,33.1920516845178,Housing,Garza
 Dickens County Courthouse - Indigent Health Care,"201 US-82, Dickens, TX 79229 (Dickens County)",-100.83758,33.62195,Support,Dickens
 Senior Citizens Center,"511 Montgomery St, Dickens, TX 79229 ",-100.836972,33.619696,Support,Dickens
 Senior Citizens South Dickens,"210 Burlington Ave, Spur, TX 79370",-100.8563124,33.4745167,Support,Dickens
-Motley County Courthouse,"701 Dundee Ave, Matador, TX 79244",-100.82191,34.01138,Support,Motley
-Motley County/District Clerk’s Office,"701 Dundee Ave, Matador, TX 79244",-101.33743,33.98527,Support,Motley
-Motley County Health / Public Health (Contact via county courthouse),"701 Dundee Ave, Matador, TX 79244",-101.33743,33.98527,Support,Motley
-Motley County Senior Citizens,"621 Stewart Ave, Matador, TX 79244",-101.32963,33.98722,Support,Motley
-Floyd County Court House,"105 S Main St, Floydada, TX 79235",-101.33468,33.98584,Support,Floyd
-Floyd County Veteran Service Officer (CVSO),"105 S Main St Room 112, Floydada, TX 79235",-101.23607,33.66003,Support,Floyd
-Floydad Center (South Plains Community Action Assoc.),"701 E Lee St, Floydada, TX 79235",-101.23814,33.66109,Support,Floyd
-Housing Authority of Floydada,"210 E California St, Floydada, TX 79235",-101.24091,33.66161,Housing,Floyd
-Caprock Community Action Association,"224 S Berkshire, Crosbyton, TX 79322",-101.23465,33.65871,Support,Crosby
-Crosbyton Housing Authority,"111 W Birch St, Crosbyton, TX 79322",-101.70694,34.18452,Housing,Crosby
-Crosby County Indigent Health Care Program,"710 W Main St, Crosbyton, TX 79322",-101.70086,34.18498,Healthcare,Crosby
-Covenant Health Clinic - Crosbyton,"710 W Main St, Crosbyton, TX 79322",-101.70246,34.18691,Healthcare,Crosby
-Youth School Linked Homeless Support (McKinney-Vento),"700 S 7th St, Crosbyton, TX 79322",-101.70644,34.1851,Housing,Crosby
-Crosbyton Clinic Hospital,"710 W Main St, Crosbyton, TX 79322",-101.70666,34.18439,Healthcare,Crosby
+Motley County Courthouse,"701 Dundee Ave, Matador, TX 79244",-100.821512,34.0139358,Support,Motley
+Motley County Health / Public Health (Contact via county courthouse),"701 Dundee Ave, Matador, TX 79244",-100.821512,34.0139358,Support,Motley
+Motley County Senior Citizens,"621 Stewart Ave, Matador, TX 79244",-100.8195842,34.0146027,Support,Motley
+Floyd County Court House,"105 S Main St, Floydada, TX 79235",-101.3341208,33.9849877,Support,Floyd
+Floyd County Veteran Service Officer (CVSO),"105 S Main St Room 112, Floydada, TX 79235",-101.3341208,33.9849877,Support,Floyd
+Floydada Center (South Plains Community Action Assoc.),"701 E Lee St, Floydada, TX 79235",-101.3253132,33.988921,Support,Floyd
+Housing Authority of Floydada,"210 E California St, Floydada, TX 79235",-101.3331423,33.9843412,Housing,Floyd
+Crosby County Courthouse / County Offices (Veterans Contact) ,"201 W Aspen St, Crosbyton, TX 79322",-101.2398811,33.6584606,Support,Crosby
+Caprock Community Action Association,"224 S Berkshire, Crosbyton, TX 79322",-101.2394473,33.658462,Support,Crosby
+Crosbyton Housing Authority,"111 W Birch St, Crosbyton, TX 79322",-101.238289,33.657333,Housing,Crosby
+Crosby County Indigent Health Care Program,"710 W Main St, Crosbyton, TX 79322",-101.2461202,33.660742,Healthcare,Crosby
+Covenant Health Clinic - Crosbyton,"710 W Main St, Crosbyton, TX 79322",-101.2461202,33.660742,Healthcare,Crosby
+Crosbyton Clinic Hospital,"710 W Main St, Crosbyton, TX 79322",-101.2461202,33.660742,Healthcare,Crosby
 Hale County Veteran Services Office,"120 E 6th St, Plainview, TX 79072 (Hale County)",-101.702007010713,34.1854403703012,Support,Hale
-Faith In Sharing House,"504 Joliet St, Plainview, TX 79072",-102.32579,33.91543,Food,Hale
-College Heights Food Pantry (Seasonal / community pantry),"802 Quincy St, Plainview, TX 79072",-102.32311,33.91718,Food,Hale
-Hale County Crisis Center,"115 E 7th St, Plainview, TX 79072",-102.32017,33.91817,Support,Hale
-Crisis Center of the Plains,"115 E 7th St, Plainview, TX 79072",-102.75934,33.72561,Support,Hale
-Hale County Housing Authority (Plainview),"123 E 6th St, Plainview, TX 79072",-102.75987,33.72618,Housing,Hale
+Faith In Sharing House,"504 Joliet St, Plainview, TX 79072",-101.7154803,34.1844213,Food,Hale
+College Heights Food Pantry (Seasonal / community pantry),"802 Quincy St, Plainview, TX 79072",-101.7243421,34.1881775,Food,Hale
+Hale County Crisis Center,"115 E 7th St, Plainview, TX 79072",-101.7027444,34.1870822,Support,Hale
+Crisis Center of the Plains,"115 E 7th St, Plainview, TX 79072",-101.7027444,34.1870822,Support,Hale
+Hale County Housing Authority (Plainview),"123 E 6th St, Plainview, TX 79072",-101.702643,34.1857396,Housing,Hale
 Hale Center Housing Authority,"513 W 4th St, Hale Center, TX 79041",-101.8516527,34.0611526,Housing,Hale
 South Plains Community Action,"301 S Ripley Ave, Littlefield, TX  79339",-102.335201339253,33.9238416604482,Housing,Lamb
-Lamb County Family Resource Center,"703 E 3rd St, Littlefield, TX  79339",-102.8429,32.96489,Support,Lamb
+Lamb County Family Resource Center,"703 E 3rd St, Littlefield, TX  79339",-102.3286338,33.9233827,Support,Lamb
 Salvation Army South Plains - Community Services,1111 16th St Lubbock TX 79401,-101.8476079,33.5800859,Housing,Lubbock
 Salvation Army Family Services Building,1614 Avenue J Lubbock TX 79401,-101.8405,33.5807,Housing,Lubbock
-Salvation Army Thrift Store and Service Center,615 Broadway Plainview TX 79072,-101.70684,34.18479,Support,Hale
-Salvation Army Community Church,612 Ash St Plainview TX 79072,-101.7039,34.1851,Support,Hale
-Salvation Army Service Location at 2nd & Ash,2nd St & Ash St Plainview TX 79072,-101.704,34.186,Support,Hale
+Salvation Army Thrift Store and Service Center,615 Broadway Plainview TX 79072,-101.703095,34.18584,Support,Hale
+Salvation Army Community Church,612 Ash St Plainview TX 79072,-101.7016039,34.1859356,Support,Hale
+Salvation Army Service Location at 2nd & Ash,2nd St & Ash St Plainview TX 79072,-101.702934,34.180599,Support,Hale
