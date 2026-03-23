@@ -1,6 +1,9 @@
 name,address,longitude,latitude,service_type,county
 University Medical Center,"602 Indiana Ave, Lubbock",-101.892301023404,33.5882284740459,Healthcare,Lubbock
 Covenant Medical Center,"3615 19th St, Lubbock",-101.893156158987,33.5770940463772,Healthcare,Lubbock
+Veterans Administration Lubbock Clinic / Lubbock VA Clinic,"3510 4th St, Lubbock, TX 79415",-101.8901331,33.5934718,Healthcare,Lubbock
+Lubbock Vet Center,"3106 50th St #400, Lubbock, TX 79413",-101.8820553,33.5491607,Mental Health,Lubbock
+Grace Surgical Hospital,"7509 Marsha Sharp Fwy, Lubbock, TX 79407",-101.9852999,33.5228843,Healthcare,Lubbock
 Catholic Charities-Lubbock,"102 Avenue J, Lubbock TX 79401",-101.8475474,33.5967355,Healthcare,Lubbock
 Texas Tech University,"2500 Broadway, Lubbock",-101.8995955,33.5937526,Education,Lubbock
 Lubbock High School,"2004 19th St, Lubbock",-101.8606743,33.5786492,Education,Lubbock
@@ -14,8 +17,6 @@ VETSTAR,"3804 I-27, Lubbock, TX 79408",-101.846210164715,33.5589260063931,Suppor
 Social Security Office: Determination Office,5825 16th Street Lubbock TX 79416,-101.9442058,33.5808515,Support,Lubbock
 Lubbock Dream Center-Lubbock,1111 30th St. Lubbock TX 79416,-101.8468597,33.5668065,Support,Lubbock
 Catholic Charities-Lubbock,102 Ave. J Lubbock TX 79401,-101.8475474,33.5967355,Support,Lubbock
-Veterans Administration Lubbock Clinic / Lubbock VA Clinic,"3510 4th St, Lubbock, TX 79415",-101.8901331,33.5934718,Healthcare,Lubbock
-Lubbock Vet Center,"3106 50th St #400, Lubbock, TX 79413",-101.8820553,33.5491607,Mental Health,Lubbock
 Tent City,"1301 Avenue A, Lubbock, TX 79401",-101.8354711,33.5830991,Housing,Lubbock
 Restoration Empowerment Centers Main Campus,"1611 Avenue O, Lubbock, TX 79401",-101.85213184125,33.5802692037668,Support,Lubbock
 Lubbock Area United Way,"1655 Main St #101, Lubbock, TX 79401",-101.854918382714,33.5852755184395,Support,Lubbock
@@ -30,6 +31,7 @@ Hope Community of Shalom,"2005 Avenue T, Lubbock, TX 79411",-101.859572,33.57672
 South Plains Rural Health,1000 FM 300 Levelland TX 79336,-102.3798611,33.5714969,Healthcare,Hockley
 Hockley County Public Assistance & Indigent Health Care,"811-B Austin Street, Levelland TX 79336 (Library Annex Basement)",-102.3721224,33.586291,Healthcare,Hockley
 Covenant Health,"1900 College Ave, Levelland TX 79336",-102.3689102,33.5731789,Healthcare,Hockley
+Levelland Clinic,"116 John Dupree Dr, Levelland, TX 79336",-102.368068,33.573817,Healthcare,Hockley
 St. Paul Lutheran Church,"1905 Ave I (Sundown Hwy & Ave I), Levelland TX 79336",-102.382214,33.57222,Mental Health,Hockley
 Christ United Methodist Church- Grief Support Group,"1704 College Ave., Levelland TX 79336",-102.3682346,33.5752617,Mental Health,Hockley
 Catholic Student Center - Adult Education- GED,1218 College Ave. Levelland TX 79336,-102.3682052,33.5797214,Education,Hockley
@@ -104,7 +106,7 @@ Bailey County Ministerial Alliance Food Pantry,"725 E American Blvd, Muleshoe, T
 Meals on Wheels / Office on Aging (Bailey County),"300 S 1st St #110, Muleshoe, TX 79347",-102.726237573641,34.2244904624553,Food,Bailey
 Central Plains Center (MHMR),"119 E Avenue C, Muleshoe, TX 79347",-102.7250415,34.2244948,Mental Health,Bailey
 Bailey County Transportation (SPCAA / SPARTAN Transportation),"804 W America Blvd Ste C, Muleshoe, TX 79347",-102.731206328093,34.2313111027647,Transportation,Bailey
-Cochran County Indigent Health Care Program,"201 E Grant St, Morton, TX 79346",-102.758097,33.719285,Healthcare,Cochran
+Cochran Memorial Hospital (County Indigent Health Care Program),"201 E Grant St, Morton, TX 79346",-102.758097,33.719285,Healthcare,Cochran
 South Plains Food Bank (local distribution),"100 N Main St Morton, TX 79346",-102.759123,33.72539,Food,Cochran
 WIC State Agency,"112 W 2nd St, Denver City, TX 79323",-102.830008428224,32.9660870930703,Food,Yoakum
 South Plains Community Action Assoc.,"112 W 2nd St, Denver City, TX 79323",-102.83000186189,32.9658997832174,Support,Yoakum
@@ -178,3 +180,55 @@ County Courthouse City Hall Roaring Springs TX,"603 2nd St, Roaring Springs, TX 
 First Baptist Church Matador TX,1401 Main St Matador TX 79244,-100.822266,34.009434,Food,Motley
 First Baptist Church Brownfield TX,"219 W Main St #219, Brownfield, TX 79316, United States",-102.277104768988,33.1797879640683,Food,Terry
 Denver City First United Methodist Church,"210 W 4th St, Denver City, TX 79323, United States",-102.830978311389,32.9684446458035,Food,Yoakum
+Spur Rural Health Clinic,"907 E Hill St, Spur, TX 79370",-100.843525,33.4709257,Healthcare,Dickens
+W.J. Mangold Memorial Hospital,"320 N Main St, Lockney, TX 79241",-101.4409232,34.127089,Healthcare,Floyd
+Cogdell Clinic Lockney,"320 N Main St, Lockney, TX 79241",-101.4409232,34.127089,Healthcare,Floyd
+Covenant Health Plainview,"2601 Dimmitt Rd, Plainview, TX 79072",-101.7324804,34.2062557,Healthcare,Hale
+Covenant Health Family Medical Center,"2404 Yonkers St, Plainview, TX 79072",-101.7346603,34.2049449,Healthcare,Hale
+Kent County Rural Health Clinic,"1447 Main St, Jayton, TX 79528",-100.5743973,33.2573195,Healthcare,Kent
+Lamb Healthcare Center,"1500 S Sunset Ave, Littlefield, TX 79339",-102.3443292,33.9119681,Healthcare,Lamb
+Lynn County Hospital District,"2600 Lockwood St, Tahoka, TX 79373",-101.8160616,33.1675631,Healthcare,Lynn
+Motley County Clinic,"1201 Main St, Matador, TX 79244",-100.82228,34.012078,Healthcare,Motley
+Sunrise Canyon Hospital,"1950 Aspen Ave, Lubbock, TX 79404",-101.8075019,33.573233,Mental Health,Lubbock
+StarCare Specialty Health System,"904 Avenue O, Lubbock, TX 79408",-101.853028,33.5869924,Mental Health,Lubbock
+Oceans Behavioral Hospital,"4202 Princeton St, Lubbock, TX 79415",-101.9022168,33.6163388,Mental Health,Lubbock
+Covenant Behavioral Health,"3615 19th St, Lubbock, TX 79410",-101.8921117,33.5768935,Mental Health,Lubbock
+Central Plains Center,"2700 Yonkers St, Plainview, TX 79072",-101.7345901,34.197355,Mental Health,Hale
+StarCare Outpatient Clinic,"116 John Dupree Dr, Levelland, TX 79336",-102.368068,33.573817,Mental Health,Hockley
+Terry County Mental Health Center,"502 W Broadway St, Brownfield, TX 79316",-102.2801116,33.1779809,Mental Health,Terry
+Garza County Mental Health Center,"411 South Ave C, Post, TX 79356",-101.368673,33.1880874,Mental Health,Garza
+Yoakum County Mental Health Center,"104 W 2nd St, Denver City, TX 79323",-102.829405,32.9658617,Mental Health,Yoakum
+Citibus,"801 Texas Ave, Lubbock, TX 79401",-101.845548,33.588176,Transportation,Lubbock
+SPARTAN Transportation,"1105 W Hwy 114, Levelland, TX 79336",-102.350631,33.593751,Transportation,Hockley
+VA Veterans Transportation (VTS),"3510 4th St, Lubbock, TX 79415",-101.8901331,33.5934718,Transportation,Lubbock
+SPARTAN (Plainview Office),"1107 Smyth St, Plainview, TX 79072",-101.7271069,34.1919208,Transportation,Hale
+SPARTAN (Main Hub),"1105 W Hwy 114, Levelland, TX 79336",-102.350631,33.593751,Transportation,Hockley
+SPARTAN (Brownfield Office),"1202 Seagraves Rd, Brownfield, TX 79316",-102.2887025,33.1625143,Transportation,Terry
+SPARTAN (Littlefield Office),"711 W Delano Ave, Littlefield, TX 79339",-102.333883,33.928089,Transportation,Lamb
+Family Promise of Lubbock,"1511 Avenue M, Lubbock, TX 79401",-101.8500889,33.5815003,Housing,Lubbock
+SPCAA Cochran Center,"907-B SW 4th St, Morton, TX 79346",-102.763788,33.716648,Housing,Cochran
+SPCAA Crosby Center,"224 W Aspen St, Crosbyton, TX 79322",-101.2403913,33.6589671,Housing,Crosby
+SPCAA Dickens Center,"500 Burlington Ave, Spur, TX 79370",-100.854746,33.477596,Support,Dickens
+Floydada Housing Authority,"701 E Virginia St, Floydada, TX 79235",-101.325454,33.986975,Housing,Floyd
+SPCAA Garza Center,"108 N Broadway, Post, TX 79356",-101.3781594,33.1912288,Housing,Garza
+Littlefield Housing Authority,"901 E 15th St, Littlefield, TX 79339",-102.3317319,33.9124188,Housing,Lamb
+Lynn County Housing Auth.,"1629 Avenue K, Tahoka, TX 79373",-101.7984749,33.1655381,Housing,Lynn
+Region 17 Adult Education,"1601 24th Street, Lubbock, TX 79411",-101.853337,33.57285,Education,Lubbock
+South Plains College (Downtown),"1610 14th Street, Lubbock, TX 79401",-101.8629182,33.582638,Education,Lubbock
+Workforce Solutions South Plains,"2002 W. Loop 289, Suite 117, Lubbock, TX 79407",-101.9447789,33.5761233,Education,Lubbock
+Literacy Lubbock,"1306 9th Street (Mahon Library), Lubbock, TX 79401",-101.8490878,33.5880438,Education,Lubbock
+SPC Plainview Center,"1920 W. 24th Street, Plainview, TX 79072",-101.7261744,34.2060877,Education,Hale
+Workforce Solutions,"400 South Garland, Plainview, TX 79072",-101.744225,34.1743025,Education,Hale
+South Plains College (Main),"1401 College Ave, Levelland, TX 79336, United States",-102.3636385,33.5766328,Education,Hockley
+Workforce Solutions,"1102 Austin Street, Levelland, TX 79336",-102.3806521,33.5860775,Education,Hockley
+Workforce Solutions,"1321 B Tahoka Road, Brownfield, TX 79316",-102.257132864395,33.1826601375605,Education,Terry
+Workforce Solutions,"203 Main Street, Muleshoe, TX 79347",-102.7235843,34.2246508,Education,Bailey
+Denver City Family Literacy,"500 North Avenue C, Denver City, TX 79323",-102.831701,32.969337,Education,Yoakum
+SPCAA Adult Learning,"711 W. Delano Ave, Littlefield, TX 79339",-102.33512381836,33.9239281334333,Education,Lamb
+Post Adult Learning Center,"108 N. Broadway, Post, TX 79356",-101.3781594,33.1912288,Education,Garza
+SPCAA Crosby Center,"224 W. Aspen Street, Crosbyton, TX 79322",-101.2403913,33.6589671,Education,Crosby
+SPCAA Cochran Center,"907-B SW 4th Street, Morton, TX 79346",-102.763788,33.716648,Education,Cochran
+Region 17 ESC Hub,"1111 West Loop 289, Lubbock, TX 79416",-101.940602,33.582451,Childcare,Lubbock
+Workforce Solutions South Plains,"2002 W Loop 289, Suite 117, Lubbock, TX 79407",-101.9447789,33.5761233,Childcare,Lubbock
+YWCA Lubbock,"6501 University Ave, Lubbock, TX 79413",-101.8703281,33.5351259,Childcare,Lubbock
+SPCAA Early Head Start,"411 Austin St, Levelland, TX 79336",-102.3726448,33.586554,Childcare,Hockley
